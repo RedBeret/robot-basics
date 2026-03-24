@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Robot Framework output
+results/
+output.xml
+log.html
+report.html
+screenshots/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Environment
+.env
+.env.local
+
+# Claude/AI artifacts
+.claude/
+CLAUDE.md
+.aider*
