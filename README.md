@@ -77,9 +77,8 @@ Tests are tagged for selective execution:
 ## Next Steps
 
 Once comfortable with these basics, move on to:
-- [robot-api-testing](https://github.com/RedBeret/robot-api-testing) — Docker + REST API testing
-- [robot-web-testing](https://github.com/RedBeret/robot-web-testing) — Browser UI automation
-- [robot-ssh-infra-testing](https://github.com/RedBeret/robot-ssh-infra-testing) — Infrastructure testing via SSH
+- [robot-intermediate](https://github.com/RedBeret/robot-intermediate) — Browser testing, page objects, databases, custom libraries, parallel execution
+- [robot-advanced](https://github.com/RedBeret/robot-advanced) — Custom frameworks, API/GraphQL testing, Docker, CI/CD, BDD, performance testing
 
 ## License
 
