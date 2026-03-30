@@ -6,6 +6,7 @@ Library          Collections
 Resource         ../../resources/api_keywords.resource
 
 Suite Setup      Create Session    jsonplaceholder    https://jsonplaceholder.typicode.com
+Suite Teardown   Delete All Sessions
 
 
 *** Test Cases ***
