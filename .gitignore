@@ -22,7 +22,3 @@ screenshots/
 .env
 .env.local
 
-# Claude/AI artifacts
-.claude/
-CLAUDE.md
-.aider*
