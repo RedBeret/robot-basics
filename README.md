@@ -1,5 +1,8 @@
 # Robot Framework Basics
 
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-green?logo=robotframework&logoColor=white) ![License: MIT](https://img.shields.io/badge/License-MIT-green) ![GitHub stars](https://img.shields.io/github/stars/RedBeret/robot-basics?style=social)
+
+
 Learn Robot Framework fundamentals through practical, runnable test examples. No Docker or VMs needed — just Python and Robot Framework.
 
 ## What You'll Learn
